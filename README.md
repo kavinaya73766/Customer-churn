@@ -119,8 +119,10 @@ Box plot:
 
 <img width="837" height="592" alt="image" src="https://github.com/user-attachments/assets/f88e9d1e-0bbf-47b4-8c86-9967b5fd019f" />
 
-
 Heat map:
+
+<img width="1156" height="787" alt="image" src="https://github.com/user-attachments/assets/1e9eae31-5ccf-41bc-b208-804c8688287c" />
+
 
 
 
