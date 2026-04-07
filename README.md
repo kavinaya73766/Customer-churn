@@ -106,6 +106,11 @@ Pie Chart:
 
 <img width="483" height="527" alt="image" src="https://github.com/user-attachments/assets/9fc542f6-bab0-443f-a96c-84a471bfebfb" />
 
+Scatter plot:
+
+<img width="850" height="592" alt="image" src="https://github.com/user-attachments/assets/7c6851cc-7b9e-43a2-a0c1-1f6f79e176dd" />
+
+
 Histogram:
 
 <img width="732" height="576" alt="image" src="https://github.com/user-attachments/assets/5f304519-4fe4-4692-8774-95442d02fd53" />
