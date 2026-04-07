@@ -41,7 +41,6 @@ Faker – Synthetic data generation
 
 Methodology
  The project follows these steps:
-
 Generate synthetic data
 Clean and preprocess data
 Perform statistical analysis
@@ -49,42 +48,42 @@ Analyze churn behavior
 Visualize data
 Draw insights and conclusions
 
-Data Generation
+Data Generation:
      Synthetic data is generated using Python libraries like Faker and NumPy. It simulates real-world customer information such as age, 
      salary, balance, and activity status without using actual sensitive data.
 
-Data Preprocessing
+Data Preprocessing:
 Check for missing values
 Convert data types
 Handle inconsistencies
 Encode categorical variables (Gender, IsActiveMember)
 Remove duplicates if any
 
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA):
 EDA is used to understand the dataset by:
 Finding mean, median, mode
 Calculating standard deviation
 Studying distribution of data
 Identifying patterns and trends
 
-Churn Analysis
+Churn Analysis:
 Compare churn vs non-churn customers
 Identify high-risk customers
 Analyze how features like balance, tenure, and activity affect churn
 
-Group-Based Analysis
+Group-Based Analysis:
 Age group vs churn
 Gender vs churn
 Active vs inactive users
 Number of products vs churn
 
-Relationship Analysis
+Relationship Analysis:
 Balance vs churn
 Credit score vs churn
 Tenure vs churn
 These relationships help understand key factors influencing customer decisions.
 
-Data Visualization
+Data Visualization:
 
 Different charts are used for better understanding:
 Bar charts
@@ -94,7 +93,7 @@ Scatter plots
 Box plots
 Heatmaps
 
-Conclusion
+Conclusion:
 
 This project shows how synthetic data and EDA can help analyze customer churn effectively. It helps identify important 
 factors like activity level, tenure, and product usage. Businesses can use these insights to improve customer retention and reduce churn.
