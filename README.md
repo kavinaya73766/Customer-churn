@@ -117,7 +117,12 @@ Histogram:
 
 Box plot:
 
+<img width="837" height="592" alt="image" src="https://github.com/user-attachments/assets/f88e9d1e-0bbf-47b4-8c86-9967b5fd019f" />
+
+
 Heat map:
+
+
 
 
 
