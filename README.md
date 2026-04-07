@@ -115,7 +115,10 @@ Histogram:
 
 <img width="732" height="576" alt="image" src="https://github.com/user-attachments/assets/5f304519-4fe4-4692-8774-95442d02fd53" />
 
-Scatter plot:
+Box plot:
+
+Heat map:
+
 
 
 
