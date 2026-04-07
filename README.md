@@ -104,3 +104,10 @@ Bar Chart:
 
 Pie Chart:
 
+<img width="483" height="527" alt="image" src="https://github.com/user-attachments/assets/9fc542f6-bab0-443f-a96c-84a471bfebfb" />
+
+Histogram:
+
+
+
+
