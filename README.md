@@ -98,4 +98,9 @@ Conclusion:
 This project shows how synthetic data and EDA can help analyze customer churn effectively. It helps identify important 
 factors like activity level, tenure, and product usage. Businesses can use these insights to improve customer retention and reduce churn.
 
-Bar Chart
+Bar Chart:
+
+<img width="797" height="586" alt="image" src="https://github.com/user-attachments/assets/8f17282d-0ba0-413a-97ae-f2af286b4fea" />
+
+Pie Chart:
+
